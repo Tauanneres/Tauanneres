@@ -6,10 +6,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <!-- Gmail direto para Gmail web -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tauannereswork@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
 
   <!-- WhatsApp -->
   <a href="https://wa.me/5511982988303" target="_blank">
@@ -21,6 +17,10 @@
     <img src="https://img.shields.io/badge/TauanNeres-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site Tauan Neres"/>
   </a>
 </div>
+
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tauannereswork@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/tauannereswork@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 
 
